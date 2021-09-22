@@ -1,0 +1,4 @@
+Hello World. 
+This is the second line.
+The file reader reads each of these characters one at a time.
+This is the last line.
